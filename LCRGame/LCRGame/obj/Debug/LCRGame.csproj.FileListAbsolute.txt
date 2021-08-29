@@ -1,0 +1,15 @@
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\bin\Debug\LCRGame.exe.config
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\bin\Debug\LCRGame.exe
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\bin\Debug\LCRGame.pdb
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.csproj.AssemblyReference.cache
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\MainWindow.g.cs
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\App.g.cs
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame_MarkupCompile.cache
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame_MarkupCompile.lref
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\MainWindow.baml
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.g.resources
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.Properties.Resources.resources
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.csproj.GenerateResource.cache
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.csproj.CoreCompileInputs.cache
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.exe
+C:\Users\zhangr99\source\repos\LCRGame\LCRGame\obj\Debug\LCRGame.pdb
